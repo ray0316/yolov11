@@ -12,4 +12,3 @@ YOLO11 실시간 물체 감지기의 최신 버전인 Ultralytics YOLO 시리즈
 광범위한 지원 작업: 물체 감지, 인스턴스 분할, 이미지 분류, 포즈 추정, 방향성 물체 감지(OBB) 등 다양한 컴퓨터 비전 과제에 대응할 수 있도록 설계되었습니다( YOLO11 ).
 ![image](https://github.com/user-attachments/assets/36d6cb62-387f-4e90-b4f2-de07a19c9625)
 ![image](https://github.com/user-attachments/assets/4174a9b3-1eb8-47cb-9b2b-5cf22e8fd4bb)
-
